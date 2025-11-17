@@ -3,4 +3,4 @@ A GitHub repository to use to practice branching and merging. For use in the UBC
 
 `author: Sarisha Das`
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
